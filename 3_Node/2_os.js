@@ -8,5 +8,5 @@ console.log(os.networkInterfaces()) // gives details about your Network
 
 console.log(os.cpus()) // cpu specifications
 
-
+// comment added
 
